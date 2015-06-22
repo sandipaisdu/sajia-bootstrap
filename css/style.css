@@ -1,0 +1,44 @@
+
+
+.header{
+    min-height: 80px;
+}
+    
+.logo h1{
+    color: grey;
+}
+.menu{padding-top: 15px;}
+
+.menu li:hover{
+    border-radius: 30px;
+}
+.menu li a:hover{ 
+    background-color:#CAE6AB;
+    border-radius: 30px;
+}
+
+.well {
+	margin: 20px 0;
+}
+
+.box img{
+    height: 210px;
+    width: 195px;
+}
+
+#gellary_side{
+    border-bottom: 1px solid green;
+     padding-bottom: 40px;
+}
+
+#texture{
+    border-bottom: 1px solid green;
+    padding-bottom: 40px;
+}
+
+.footer {
+	background: #333;
+	color: #eee;
+	font-size: 11px;
+	padding: 20px;
+}

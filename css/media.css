@@ -1,0 +1,6 @@
+@media
+    only screen and ( max:                min-resolution: 2dppx) {
+    background-image: url("@{file-2x}");
+    background-size: @width-1x @height-1x;
+  }
+}
